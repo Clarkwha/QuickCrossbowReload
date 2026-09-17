@@ -1,0 +1,46 @@
+Folder PATH listing for volume Data
+Volume serial number is 1D31-4B30
+D:.
+¦   build_and_package.bat
+¦   generate_structure.bat
+¦   icon.png
+¦   manifest.json
+¦   New Text Document.txt
+¦   QuickCrossbowReload.csproj
+¦   structure.txt
+¦   
++---bin
+¦   +---Release
+¦       +---netstandard2.1
++---Lib
+¦       0Harmony.dll
+¦       Assembly-CSharp.dll
+¦       BepInEx.dll
+¦       UnityEngine.CoreModule.dll
+¦       UnityEngine.dll
+¦       
++---obj
+¦   ¦   project.assets.json
+¦   ¦   project.nuget.cache
+¦   ¦   QuickCrossbowReload.csproj.nuget.dgspec.json
+¦   ¦   QuickCrossbowReload.csproj.nuget.g.props
+¦   ¦   QuickCrossbowReload.csproj.nuget.g.targets
+¦   ¦   
+¦   +---Debug
+¦   ¦   +---netstandard2.1
+¦   ¦           QuickCrossbowReload.csproj.FileListAbsolute.txt
+¦   ¦           
+¦   +---Release
+¦       +---netstandard2.1
+¦               .NETStandard,Version=v2.1.AssemblyAttributes.cs
+¦               QuickCrossbowReload.AssemblyInfo.cs
+¦               QuickCrossbowReload.AssemblyInfoInputs.cache
+¦               QuickCrossbowReload.assets.cache
+¦               QuickCrossbowReload.csproj.AssemblyReference.cache
+¦               QuickCrossbowReload.csproj.CoreCompileInputs.cache
+¦               QuickCrossbowReload.csproj.FileListAbsolute.txt
+¦               QuickCrossbowReload.GeneratedMSBuildEditorConfig.editorconfig
+¦               
++---Plugin
+        QuickCrossbowReload.cs
+        

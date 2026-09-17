@@ -1,0 +1,9 @@
+{
+  "name": "QuickCrossbowReload",
+  "description": "Reduces crossbow reload time and allows reloading while moving in Valheim.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Clarkewha/QuickCrossbowReload",
+  "dependencies": [
+
+  ]
+}
