@@ -64,6 +64,13 @@ BepInEx/config/quickcrossbowreload.cfg
 
 ---
 
+## Repository Contents
+
+- `manifest.json` – Thunderstore package metadata (name, description, version).
+- `icon.png` – Mod icon used on Thunderstore.
+
+---
+
 ## License
 
 MIT License – feel free to use, modify, and redistribute with attribution.
